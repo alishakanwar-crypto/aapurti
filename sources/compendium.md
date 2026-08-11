@@ -35,6 +35,7 @@ The distinction matters only for the SEZ Act grounds. Every other ground (no wri
 | s.18 | Provisional assessment |
 | s.45 | Custody of imported goods with the custodian; goods not to be removed except as permitted |
 | s.47 / s.48 | Clearance for home consumption; goods not cleared within 30 days |
+| s.49 (as substituted by s.102, Finance Act, 2017) | Storage of imported goods in a **public** warehouse pending clearance or removal, on the importer's application, for 30 days, extendable by the Pr. Commissioner/Commissioner "for a further period not exceeding thirty days at a time"; Chapter IX does not apply. The only lawful way to hold goods that cannot be cleared at once |
 | s.108 | Power to summon persons to give evidence and produce documents |
 | s.110 | Seizure — the **only** power to withhold goods; requires reason to believe that the goods are liable to confiscation |
 | s.110(2) | Notice under s.124 within six months of seizure, extendable once |
@@ -189,10 +190,14 @@ Confirms from a primary CBIC source what the ICEGATE FAQ says — the goods are 
 | Case | Citation | Holding |
 | --- | --- | --- |
 | ***Jatinder Kumar Sachdeva v. Union of India*** | Delhi HC, 08.12.2016 **[Verified]** | There is **no provision for "detention"** in the Customs Act; the Department cannot, "under the garb of detention", escape the consequences that follow a seizure. |
-| ***Exim Incorporation v. Union of India*** | Bombay HC (DB), 09.12.2020 **[Verified]** | DRI directed the port formation to hold assessed cargo and ignored a s.49 request; the **first illegality was detaining without effecting a seizure**. |
+| ***Exim Incorporation v. Union of India*** | Bombay HC (DB), **W.P. No. 1898 of 2020**, 09.12.2020 **[Verified — primary text read]** | Two bills of entry at Nhava Sheva marked for 100% examination; DRI Kolkata insisted on the proprietor's presence, the Joint Commissioner refused to let the representative participate, and the **request for warehousing under s.49 "was also not responded to"**. Held (paras 21, 26.1, 31, 32): "we could not come across any such provision authorizing detention of goods"; even on the department's own Central Apprising Manual "detention would be at a stage post seizure ... admittedly there is no seizure. Therefore, there can be no detention"; "Detention cannot be taken resort to or the customs authorities cannot take the plea of detention to avoid consequences of seizure under sub section (2) of section 110"; "**First illegality is they have detained the goods without affecting seizure**", the second being breach of the s.110(2) time limit. On s.47: clearance "may take some time but certainly the goods cannot be detained for an indefinite period in the name of verification". Release directed forthwith and in any case within two weeks. |
 | ***Union of India v. Jatin Ahuja*** | SC, Civil Appeal No. 3489 of 2024, 11.09.2025 **[Reported]** | s.110(2) time discipline. |
 | ***S.J. Fabrics Pvt. Ltd. v. Union of India*** | Calcutta HC, 19.04.2011 **[Reported]** | Detention/seizure safeguards. |
-| ***M/s Om Udyog v. Union of India*** | Punjab & Haryana HC, 14.05.2010 **[Reported]** | Detention without seizure impermissible. |
+| ***Om Udyog v. Union of India*** | P&H HC (DB), **2010 (254) E.L.T. 547** **[Verified via Exim Incorporation, paras 27 and 33]** | "in no case, non-clearance of goods for months can be justified"; "no authority can plead unlimited power of non-clearance for its own incompetence as a justification beyond reasonable period"; officers "are not immune from accountability against abuse of power by detaining goods for indefinite period". |
+| ***Ramnarain Bishwanath v. Collector of Customs, Calcutta*** | CEGAT, **(1988) 34 E.L.T. 202** **[Verified via Exim Incorporation, para 26]** | The department's own Central Apprising Manual distinguishes 'detention' from 'seizure'; on that reading detention is a **post-seizure** stage only. |
+| ***Mohd. Salman Khan v. Union of India*** | Delhi HC, **2016 (337) E.L.T. 513** **[Verified via Exim Incorporation, para 28]** | No provision permitting detention **in lieu of** seizure; customs "cannot take shelter under the device of detention of goods in order to avoid the consequences flowing from seizure". |
+| ***Shiv Shakti Trading Co. v. Commissioner of Customs (Preventive)*** | Delhi HC, **(2016) 336 E.L.T. 415** **[Verified via Exim Incorporation, para 29]** | The s.110(2) time limit is **sacrosanct**; consequence of no notice in six months is immediate and unconditional release. |
+| ***Sai Incorporation v. Principal Commissioner of Customs (Import)*** | Delhi HC, **2016 (338) E.L.T. 578** **[Verified via Exim Incorporation, para 30]** | Failure to release after expiry of the s.110(2) period is unlawful; unconditional release directed. |
 
 Caution: the express "no detention power" holdings are **Delhi and Bombay**, not Madras. Do not attribute that formulation to the Madras High Court; use *J.K. Exim* and the s.110/110A discipline for the Madras position.
 
@@ -226,12 +231,39 @@ Caution: the express "no detention power" holdings are **Delhi and Bombay**, not
 | Circular | Effect |
 | --- | --- |
 | Circular No. 84/95-Cus. | Avoid prolonged detention of goods; warehouse pending clearance |
-| Circular No. 01/2011-Cus., para 4 | Provisional release framework; expeditious testing |
+| Circular No. 01/2011-Cus. dated 04.01.2011, F.No.401/179/2009-Cus.III **[Verified — full text read]** | Subject is "Provisional release of **export** goods detained for investigation" — note the export context before relying on it, although this Court applied it in *J.K. Exim*. Para 4: "Seizure should be resorted to only when the Customs officers have a reason to believe that the goods in question are liable to confiscation under the Customs Act, 1962 and thereafter the provisions of Section 110A ... would come into play"; where goods "are to be detained for purpose of tests etc. to confirm the declaration ... the endeavour should be to quickly undertake the necessary action (test / enquiry etc.) and take appropriate legal action thereafter so that the period of detention is kept to the minimum". Para 4(d): goods detained for tests "must be dealt with on priority" and continued detention "in excess of 3 days must be brought to the notice of the Commissioner of Customs". |
 | Circular No. 30/2013-Cus. | Test reports to be obtained quickly; escalation where testing exceeds three days |
 | Circular No. 30/2017-Cus. | Sampling in the presence of the importer with certification; results to be communicated immediately |
 | Circular No. 43/2017-Cus. | Re-test procedure and sampling technique |
 
-**[Reported — all five to be printed from the CBIC site and paginated as annexures; verify current status/supersession.]**
+**[The 01/2011 text above is verified from the Board's own copy; the remaining four are to be printed from the CBIC site and paginated as annexures, verifying current status/supersession.]**
+
+### Instruction No. 27/2024-Customs dated 01.11.2024, F. No. 394/39(14)/2018-Commr.(Inv.-Cus.) **[Verified — full text read]**
+
+The Board's guidelines for investigation of "commercial intelligence/fraud (CI)" cases — i.e. exactly this category of allegation, as distinct from outright smuggling. Directly answers the point that one formation after another cannot investigate the same line of business:
+
+| Para | Text |
+| --- | --- |
+| 2.1 | "Within the jurisdiction of the Commissionerate, the Commissioner is responsible for developing and approving any intelligence, investigation and its completion. **Each investigation must be initiated only after the approval of the Commissioner.** A CI case investigation must reach the earliest conclusion which is normally not more than one year." |
+| 2.2 | Prior analysis against "available data, technical literature, prevalent industry practice, judicial pronouncements, extant legal framework, precedence etc.", seeking information holistically at the first instance, "which is an important factor in minimizing interface with the importer/exporter". |
+| 2.3 | The analysis "should extend to checking open-source information and **the entries in DIGIT and DIN in terms of the existing investigations related to the same entity and also if an investigation on the same issue exists**." |
+| 2.4 | The Commissioner decides whether the intelligence is to be brought to the notice of DRI through the Chief Commissioner — i.e. coordination, not duplication. |
+| 2.5(a)–(e) | Documents "preferably by writing letter"; a "reasonable" time frame for appearance "keeping in view the mode of communication of the letter/summon"; relevancy and propriety recorded on e-file "so as not to have repeated issuance of letter/summons or seeking of piecemeal information"; **prior reasoned approval of an officer not below Dy/Asst. Commissioner of each content of the summons**. |
+| 2.5(f) | Any statement recorded under summons, and any panchnama or mahazar, to be uploaded to the same e-office file and submitted to the Addl./Jt. Commissioner "within 4 working days". |
+| 2.5(h), (j) | The summons must "disclose the specific nature of the inquiry"; "vague (or general) expressions must be avoided"; "**Issuing letter/summons with context or content akin to a fishing inquiry is not acceptable**." |
+| 2.5(l), (m) | Investigation need not be kept pending till limitation approaches; closure includes recording that nothing objectionable was found. |
+
+Also referred to in 2.5(b): CBIC Instruction **F. No. 394/05/2015-Cus (AS) dated 04.02.2015** on the issue of summons, particularly to senior management **[To verify — obtain text]**.
+
+### The Department as one entity — consistency
+
+| Authority | Citation | Proposition |
+| --- | --- | --- |
+| ***Birla Corporation Ltd. v. Commissioner of Central Excise*** | **(2005) 6 S.C.C. 95** **[Verified]** | "We cannot permit the Revenue to take a different stand in this case"; having taken a conscious decision to accept a principle, the Revenue cannot "be permitted to take the opposite stand ... the law will be in a state of confusion and will place the authorities as well as the assessees in a quandary". |
+| ***Damodar J. Malpani v. Collector of Central Excise*** | 2002 (146) E.L.T. 483 (S.C.) **[Reported]** | Revenue cannot take contradictory stands on identical facts. |
+| ***ITC Ltd. v. Commissioner of Central Excise, Kolkata-IV*** | (2019) 17 S.C.C. 46 **[Reported]** | A self-assessment is an assessment order; it binds until modified in appeal or review — it cannot be got round collaterally. |
+| ***Priya Blue Industries Ltd. v. Commissioner of Customs (Preventive)*** | (2005) 10 S.C.C. 433 **[Reported]** | Same principle — no collateral challenge to an assessment. |
+| ***Vivek Narsaria v. State of Jharkhand*** | Jharkhand HC, W.P.(T) No. 4491 of 2023, 15.01.2024 **[Reported]** | Where State GST, the CGST Preventive Wing and DGGI proceeded concurrently on inter-related transactions, the investigation was consolidated before the authority that acted first and the others were directed to forward their material. A GST case, cited for the principle against parallel investigation, and reinforced by CBIC Instruction No. 01/2023-24-GST (Inv.), which requires an existing inquiry on the same subject matter to be ascertained before a second one is approved. |
 
 ---
 
