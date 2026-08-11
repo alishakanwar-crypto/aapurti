@@ -13,14 +13,32 @@ Prepared for Counsel. Every entry below is marked **[Verified]** where the prima
 | | Consignment A — Air Cargo | Consignment B — FTWZ |
 | --- | --- | --- |
 | Formation acting | SIIB, Air Cargo Complex, Meenambakkam | SIIB, Chennai-III (Preventive) Commissionerate, Custom House, Rajaji Salai |
-| Bill of Entry | Z-type B/E No. 2875354 dated 01.08.2026 | (second Z-type B/E — number and date to be inserted) |
-| Goods | Blister Copper, CTH 7402, 414.556 kgs, declared value Rs. 8,32,51,039.90, origin UAE | Blister Copper warehoused in the Unit |
+| Bill of Entry | Z-type B/E No. 2875354 dated 01.08.2026 | Z-type B/E No. 2875203 dated 01.08.2026, Port Code INNPK6, Doc. No. BE0010820261217 [Verified — assessed copy read] |
+| Goods | Blister Copper, CTH 7402, 414.556 kgs, declared value Rs. 8,32,51,039.90, origin UAE | Blister Copper, CTH 7402 0010, 395.276 kgs in 5 packages (gross 421 kgs), invoice Exp/2026/018 dated 30.07.2026, USD 8,00,987.29 CIF, assessable value Rs. 7,78,55,964.59, IGST foregone Rs. 1,40,14,074; MAWB 51411908805 dated 31.07.2026; IGM 3109623 dated 01.08.2026; origin/consignment UAE, loading Sharjah; supplier/third party Gemtec Jewellery FZE, Hamriyah Free Zone, Sharjah; submitted 12:16 and assessed 12:17 on 01.08.2026 on transaction value (Rule 4) |
 | Physical location of the goods | Air Cargo Complex, Chennai (not yet admitted into the Zone) | Warehouse No. 12, Part-G, Survey Nos. 161 and 162, NDR Infrastructure Pvt. Ltd. FTWZ, Nandiambakkam Port Road, Chennai |
 | Impugned action | Detention and drawal of samples on 07.08.2026 | Detention and drawal of samples on 10.08.2026; statement of Shri A. Krishnesh Raja under s.108; summons dated 10.08.2026 |
 | SEZ Act s.22 available? | No — nothing was done inside the Zone or the Unit | Yes — the action was inside the Zone and inside the Unit |
 | Writ | Writ No. 1 (ACC SIIB) | Writ No. 2 (SIIB, Chennai-III Preventive) |
 
 The distinction matters only for the SEZ Act grounds. Every other ground (no written detention or seizure order, no grounds of belief, no mahazar, no sampling memo, breach of the MEPZ SOP, an assessed Z-BoE nullified by an officer with no power to do so, Article 14 on 18 prior identical clearances) applies to both.
+
+---
+
+### Letter of Approval (unit's charter) [Verified — original read]
+
+| Item | Particulars |
+| --- | --- |
+| Reference | F.No. 08/45/2025-NDR FTWZ-SEZ dated 22.10.2025, Office of the Development Commissioner, MEPZ SEZ, Tambaram, Chennai-600045 |
+| Issued by | Alex Paul Menon, IAS, Development Commissioner, on the decision of the Unit Approval Committee (2025-2026 Series) meeting held on 22.10.2025 |
+| Applications | Petitioner's applications dated 04.08.2025 and 08.10.2025 |
+| Unit | Warehouse No.12, Part-G, NDR Free Trade Warehousing Zone, Nandiambakkam Port Road, Nandiambakkam Village, Minjur Panchayat, Tiruvallur District |
+| Authorised operations | Manufacture: Nil. Services: "Warehousing and Logistics Service including Permissible Value Added Services under SEZ Act 2005 and SEZ Rules 2006" |
+| Condition (iv) | May "import or procure from the Domestic Tariff Area all the items required for your authorized operations under this approval, except those prohibited under the ITC (HS) Classifications of Export and import items" |
+| Condition (i) | Bond-cum-Legal Undertaking to be executed under the SEZ Rules, 2006 |
+| Condition (vi)/(viii) | Valid one year from issue for implementation; valid five years from commencement of production |
+| Endorsed to | (1) The Specified Officer, Chennai-IV; (2) The Authorised Officer, NDR Infrastructure FTWZ, Ponneri, Tiruvallur District; (3) The Developer, NDR Infrastructure FTWZ |
+
+Pleading value: the endorsement is to the Specified Officer, **Chennai-IV**, and to the Zone's Authorised Officer — not to the Chennai-III (Preventive) Commissionerate. That supports the ground that the officers who entered the Unit on 10.08.2026 are not the officers to whom the SEZ Act and Rules (and the MEPZ SOP) commit examination, sampling and supervision of the Unit's imports. It is a *competence and compliance* argument, not an absolute bar (see *RHC Global*).
 
 ---
 
